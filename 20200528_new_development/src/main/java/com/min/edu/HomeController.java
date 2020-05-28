@@ -37,12 +37,20 @@ public class HomeController {
 	}
 	
 	public String jooae() {
-		return "jooae";
+		return "joaaaoae";
 	}
 	
+
 	public String Sangwoo(Model model) {
-		String hi = "집에 가고 싶어요";
+		String hi = "집에 가고 싶어요";  }
+
+	public String sonjooae(Model model) {
 		return null;
 		
 	}
+
+  public String SonJooAe() {
+		return "sangwoo";
+	}
+	
 }
