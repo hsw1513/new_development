@@ -44,4 +44,9 @@ public class HomeController {
 		return null;
 		
 	}
+	
+	public String SonJooAe() {
+		return "sangwoo";
+	}
+	
 }
