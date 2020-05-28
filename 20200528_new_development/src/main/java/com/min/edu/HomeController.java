@@ -37,7 +37,7 @@ public class HomeController {
 	}
 	
 	public String jooae() {
-		return "jooae";
+		return "joaaaoae";
 	}
 	
 	public String sonjooae(Model model) {
