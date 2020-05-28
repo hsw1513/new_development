@@ -35,5 +35,8 @@ public class HomeController {
 		
 		return "home";
 	}
-	
+	public String Sangwoo(Model model) {
+		return null;
+		
+	}
 }
