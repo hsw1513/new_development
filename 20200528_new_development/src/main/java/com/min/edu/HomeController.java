@@ -40,12 +40,12 @@ public class HomeController {
 		return "jooae";
 	}
 	
-	public String Sangwoo(Model model) {
+	public String sonjooae(Model model) {
 		return null;
 		
 	}
-	
-	public String SonJooAe() {
+
+  public String SonJooAe() {
 		return "sangwoo";
 	}
 	
