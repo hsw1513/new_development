@@ -40,6 +40,10 @@ public class HomeController {
 		return "joaaaoae";
 	}
 	
+
+	public String Sangwoo(Model model) {
+		String hi = "집에 가고 싶어요";  }
+
 	public String sonjooae(Model model) {
 		return null;
 		
