@@ -36,4 +36,8 @@ public class HomeController {
 		return "home";
 	}
 	
+	public String jooae() {
+		return "jooae";
+	}
+	
 }
