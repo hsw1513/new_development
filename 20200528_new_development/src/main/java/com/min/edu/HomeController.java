@@ -35,6 +35,11 @@ public class HomeController {
 		
 		return "home";
 	}
+	
+	public String jooae() {
+		return "jooae";
+	}
+	
 	public String Sangwoo(Model model) {
 		return null;
 		
