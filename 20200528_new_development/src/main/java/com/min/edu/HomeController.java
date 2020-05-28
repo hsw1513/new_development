@@ -41,6 +41,7 @@ public class HomeController {
 	}
 	
 	public String Sangwoo(Model model) {
+		String hi = "집에 가고 싶어요";
 		return null;
 		
 	}
