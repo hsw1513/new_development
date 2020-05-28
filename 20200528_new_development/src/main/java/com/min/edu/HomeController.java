@@ -40,4 +40,8 @@ public class HomeController {
 		return "jooae";
 	}
 	
+	public String Sangwoo(Model model) {
+		return null;
+		
+	}
 }
